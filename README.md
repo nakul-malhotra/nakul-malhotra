@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nakul malhotra
+- 👋 Hi, I’m Nakul
 - 👀 I’m interested in building cool products!
 - 🌱 I’m currently learning how to build scalable systems
 - 💞️ I’m looking to collaborate on new products and proejcts
